@@ -1,3 +1,4 @@
+//Lab 1 - Step 6: screen width printed with debugPrint
 import 'package:material_ui/material_ui.dart';
 
 void main() {
